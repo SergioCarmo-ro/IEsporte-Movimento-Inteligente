@@ -13,6 +13,9 @@ O sistema apresentava as seguintes **limitações para pessoas com deficiência*
 3. **Falta de semântica ARIA** → Leitores de tela não anunciavam corretamente a função dos cards.
 4. **Menu de navegação sem labels descritivos** → Navegação confusa para usuários com leitores de tela.
 5. **Contraste de cores inadequado em alguns elementos** → Usuários com baixa visão tinham dificuldade em ler textos.
+6. **Não há a funcionalidade em Língua Brasileira de Sinais (Libras)** → Para facilitar a comunicação e acessibilidade para pessoas surdas.
+7. **Não há a funcionalidade em Chats (Libras)**  →
+8. **Não há a funcionalidade em Multilinguagem**  →
 
 **Impacto:** Essas limitações violam princípios de acessibilidade essenciais (WCAG 2.1, Lei Brasileira de Inclusão - Lei 13.146/2015) e excluem pessoas com deficiência da experiência completa do sistema.
 
