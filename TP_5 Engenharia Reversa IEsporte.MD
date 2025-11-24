@@ -223,6 +223,20 @@ Essa arquitetura favorece separação de responsabilidades: o cliente (navegador
 <img width="1276" height="575" alt="Stack Tecnologica 2" src="https://github.com/user-attachments/assets/ea083677-1007-4fe3-8fcd-fd435399b095" />
 
 
+## 🗂️ Kanban — Engenharia Reversa do Sistema IEsporte
+
+| **To Do**                           | **In Progress**                       | **Review**                         | **Done**                               |
+|-------------------------------------|---------------------------------------|------------------------------------|----------------------------------------|
+| Ler código do frontend e backend    | Documentar arquitetura do sistema     | Checar fidelidade dos diagramas    | Finalizar engenharia_reversa.md no repo|
+| Inspecionar modelos/views Django    | Gerar Diagrama de Classes PlantUML    | Revisar arquivo engenharia_reversa.md | Diagramas revisados e exportados       |
+| Analisar requirements.txt e dependências | Descrever comportamento interacional | Validar integração dos PlantUML    | Stack tecnológica documentada           |
+| Ler README/documentação original    | Produzir Stack Tecnológica PlantUML   |                                    | Kanban inserido no GitHub               |
+| Mapear funcionalidades e padrões    | Reunir requisitos e backlog           |                                    |                                        |
+
+
+
+
+
 
 ---
 # 📝 Conclusão
