@@ -224,11 +224,15 @@ Essa arquitetura favorece separação de responsabilidades: o cliente (navegador
 
 
 
-
-## ✅ Próximos Passos
-
-
 ---
+# 📝 Conclusão
+
+A engenharia reversa do **IEsporte – Movimento Inteligente** permitiu mapear estrutura, funcionamento e tecnologia do sistema, com levantamento dos requisitos, modelos e padrões adotados. 
+
+A análise confirma a arquitetura em camadas (frontend SPA, backend Django, banco SQLite3) e o uso de práticas modernas, como Facade e SPA, além da preparação para integrações futuras (IA, acessibilidade).
+
+As evidências comprovam que cada função atende às necessidades dos usuários com segurança, usabilidade e inclusão. O documento oficializa as bases para manutenção, evolução e integração do sistema, apoiando o crescimento e a referência do **IEsporte** em gestão esportiva e clínica.
+
 
  
 ## ✅ Autor  **Sérgio Ademir Rocha do Carmo**
