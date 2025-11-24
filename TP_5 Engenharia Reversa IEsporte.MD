@@ -218,6 +218,8 @@ Essa arquitetura favorece separação de responsabilidades: o cliente (navegador
   - Separação clara entre dados (models), lógica/processamento (views) e interface (templates)
  
 
+
+
 <img width="1276" height="575" alt="Stack Tecnologica 2" src="https://github.com/user-attachments/assets/ea083677-1007-4fe3-8fcd-fd435399b095" />
 
 
