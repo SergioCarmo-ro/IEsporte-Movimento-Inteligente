@@ -230,6 +230,9 @@ Essa arquitetura favorece separação de responsabilidades: o cliente (navegador
 
 ---
 
+© 2025 – *IEsporte: Movimento Inteligente*  
+## ✅ Autor  **Sérgio Ademir Rocha do Carmo**
+
 
 
 
